@@ -1,5 +1,5 @@
 .bg_dark {
-    background-color: #000000;
+    background-color: #1E334E;
 }
 section.hero__area-3.bg_dark {
     background-image: inherit;
@@ -31,7 +31,7 @@ a.db-btn-border.btn-rollover.colo-white {
 .hero__right-4 img {
     border-style: solid;
     border-width: 5px 5px 5px 5px;
-    border-color: #B69974;
+    border-color: #F48C84;
     border-radius: 30px 30px 30px 30px;
     rotate: 6deg;
 }
@@ -53,7 +53,7 @@ a.db-btn-border.btn-rollover.colo-white {
     font-size: 50px;
     font-weight: 600;
     font-family: "Roboto", sans-serif;
-    color: #B69974;
+    color: #F48C84;
 }
 
 .single-counter .counter-title {
@@ -131,7 +131,7 @@ a.db-btn-border.btn-rollover.colo-white {
 .single-image img {
     border-style: solid;
     border-width: 5px 5px 5px 5px;
-    border-color: #B69974;
+    border-color: #F48C84;
     border-radius: 30px 30px 30px 30px;
 }
 
@@ -287,7 +287,7 @@ h2.brand {
     color: var(--main-color-one);
 }
 .mission-content h4 {
-    color: #B69974;
+    color: #F48C84;
     font-family: "Inter", Sans-serif;
     font-size: 24px;
     font-weight: 500;

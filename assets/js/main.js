@@ -198,7 +198,7 @@
   $('.skill_active').progressBar({
     height: "10",
     animation: true,
-    barColor: "#B69974",
+    barColor: "#F48C84",
   });
   /////////////////////////////////////////////////////
 
